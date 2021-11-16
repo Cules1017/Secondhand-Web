@@ -1,11 +1,10 @@
-     :root {
+ :root {
         --white-color: #ffff;
         --milk-color: #F7F7F7;
         --grayish-color: #52616B;
         --graydark-color: #1B2023;
         --black-color: #000;
-        --text-color: #333;
-    }
+        --text-color: #333;}
     
     * {
         box-sizing: inherit;
@@ -189,3 +188,4 @@
         font-size: 1.4rem;
         color: red;
     }
+
